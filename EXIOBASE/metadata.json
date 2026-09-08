@@ -1,0 +1,9 @@
+{
+    "description": "EXIOBASE3 metadata file for pymrio",
+    "name": "EXIO3",
+    "system": "ixi",
+    "version": "10.5281/zenodo.5589597",
+    "history": [
+        "20250613 11:12:40 - FILEIO -  Could not find EXIOBASE 3 source file with >2015< and >ixi<"
+    ]
+}
